@@ -3,12 +3,14 @@
 <img width="1000" height="448" alt="image" src="https://github.com/user-attachments/assets/7cab11ad-a206-4590-baa0-24ed67c89e75" />
 
 🛠  Tech Stack
+
+<img width="906" height="325" alt="image" src="https://github.com/user-attachments/assets/113832c6-0af5-45de-bf27-13b8303723a9" />
+
 Github
 
-🌐   HTML5 CSS JavaScript React Bootstrap TailwindCSS
+🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) React Bootstrap TailwindCSS
 
-👾 Java SpringBoot Java Spring Node.js Express MongoDB SQL MySQL Hibernate <img width="906" height="325" alt="image" src="https://github.com/user-attachments/assets/113832c6-0af5-45de-bf27-13b8303723a9" />
-
+👾 Java SpringBoot Java Spring Node.js Express MongoDB SQL MySQL Hibernate 
 
 ⚙️   Git GitHub
 
