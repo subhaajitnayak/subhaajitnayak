@@ -19,11 +19,7 @@ Github
 🌐 Coding Platforms
 https://auth.geeksforgeeks.org/user/kalyanreddy434 https://leetcode.com/kalyanreddy434/
 
-### Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_URL)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS)
+[![Follow Me Around The Web](https://skillicons.dev/icons?i=linkedin,instagram,gmail)](YOUR_MAIN_SOCIAL_LINK_HERE)
 
 
 <!--
