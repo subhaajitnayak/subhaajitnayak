@@ -9,9 +9,7 @@
 Github
 
 🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
-(https://img.shields.io/badge/any_text-you_like-blue)
-
-
+![Learning Deep Learning](https://img.shields.io/badge/learning-deep%20learning-blueviolet?style=for-the-badge)
 
 👾 Java SpringBoot Java Spring Node.js Express MongoDB SQL MySQL Hibernate 
 
