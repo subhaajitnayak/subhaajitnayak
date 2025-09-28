@@ -8,7 +8,9 @@
 
 Github
 
-🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev) React Bootstrap TailwindCSS
+🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
+https://img.shields.io/badge/HTML,CSS
+
 
 👾 Java SpringBoot Java Spring Node.js Express MongoDB SQL MySQL Hibernate 
 
