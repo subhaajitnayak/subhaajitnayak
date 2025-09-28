@@ -35,15 +35,8 @@ Github
 
 
 🌐 Coding Platforms
-<p align="left">
-  <a href="https://auth.geeksforgeeks.org/user/kalyanreddy434" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" />
-  </a>
-  <a href="https://leetcode.com/kalyanreddy434/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" />
-  </a>
-</p>
-
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-21A334?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kalyanreddy434)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kalyanreddy434/)
 
 
 
