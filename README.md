@@ -44,8 +44,10 @@ https://auth.geeksforgeeks.org/user/kalyanreddy434 https://leetcode.com/kalyanre
 
 ### Connect with Me
 
-[![Follow Me Around The Web](https://skillicons.dev/icons?i=linkedin,instagram,gmail)](YOUR_MAIN_SOCIAL_LINK_HERE)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/subhajit-nayak-122095268)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](001_rudra_s____
+)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhajit89nayak@gmail.com)
 
 
 
