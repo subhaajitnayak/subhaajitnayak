@@ -9,7 +9,7 @@
 Github
 
 🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
-https://img.shields.io/badge/any_text-you_like-blue
+(https://img.shields.io/badge/any_text-you_like-blue)
 
 
 
