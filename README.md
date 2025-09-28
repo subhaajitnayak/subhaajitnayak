@@ -35,8 +35,8 @@ Github
 
 
 🌐 Coding Platforms
-
-https://auth.geeksforgeeks.org/user/kalyanreddy434 https://leetcode.com/kalyanreddy434/
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-21A334?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/kalyanreddy434)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/kalyanreddy434/)
 
 
 
