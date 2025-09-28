@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi 👋, I'm Subhajit Nayak
+# A passionate Full Stack Developer from India
+<img width="1000" height="448" alt="image" src="https://github.com/user-attachments/assets/7cab11ad-a206-4590-baa0-24ed67c89e75" />
+
+#<img width="380" height="50" alt="image" src="https://github.com/user-attachments/assets/c55e548f-b841-42d8-988b-cc837de052bc" />
+
+
 
 <!--
 **subhaajitnayak/subhaajitnayak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
