@@ -11,6 +11,11 @@ Github
 
 ⚙️   Git GitHub
 
+🌐 Coding Platforms
+https://auth.geeksforgeeks.org/user/kalyanreddy434 https://leetcode.com/kalyanreddy434/
+
+Follow me around the web:
+LinkedIn Instagram Email
 
 
 <!--
