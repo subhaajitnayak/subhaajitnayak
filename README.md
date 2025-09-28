@@ -19,6 +19,8 @@ Github
 🌐 Coding Platforms
 https://auth.geeksforgeeks.org/user/kalyanreddy434 https://leetcode.com/kalyanreddy434/
 
+
+### Connect with Me
 [![Follow Me Around The Web](https://skillicons.dev/icons?i=linkedin,instagram,gmail)](YOUR_MAIN_SOCIAL_LINK_HERE)
 
 
