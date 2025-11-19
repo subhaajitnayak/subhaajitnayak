@@ -18,11 +18,6 @@ Github
 
 
 
-🌐  [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
-
-![Learning Deep Learning](https://img.shields.io/badge/learning-deep%20learning-blueviolet?style=for-the-badge)
-
-![Learning French](https://img.shields.io/badge/LearningFrench-8A2BE6?style=for-the-badge)
 
 
 
